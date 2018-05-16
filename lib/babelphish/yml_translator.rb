@@ -1,8 +1,8 @@
 module Babelphish
   module YmlTranslator
-
+  
     SUBSTITUTION_PLACE_HOLDER = '{{---}}'
-    SUBSTITUTION_PLACE_HOLDER_2 = '-.-.-'
+    SUBSTITUTION_PLACE_HOLDER_2 = '.---'
     
     class << self
       
